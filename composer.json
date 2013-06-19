@@ -1,0 +1,10 @@
+{
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {"Fhaculty": "src/"}
+    },
+    "require": {
+        "php": ">=5.3.0",
+        "clue/graph": "dev-master"
+    }
+}
